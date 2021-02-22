@@ -1,6 +1,6 @@
 # Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
 
-Este repositorio se puede utilizar como punto de partida para implementar modelos [fast.ai] (https://github.com/fastai/fastai) en Render.
+En este repositorio se utilizó una plantilla base como punto de partida para implementar modelos [fast.ai] (https://github.com/fastai/fastai) en Render.
 
 Comandos para clonar el repositorio:
 
